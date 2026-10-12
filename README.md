@@ -1,5 +1,7 @@
 # パスワードの安全な保存をPythonで実装する｜ソルトとハッシュ反復
 
+[![run](https://github.com/jumpei1228/security-password-hashing-python/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/security-password-hashing-python/actions/workflows/run.yml)
+
 パスワードを平文で保存してはいけない理由と、正しい保存方法をPythonで実装。ソルト付きハッシュ、反復回数（ストレッチング）で総当たり攻撃を遅くするしくみを、標準ライブラリだけで手を動かして学びます。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
